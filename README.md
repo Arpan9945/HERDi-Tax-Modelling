@@ -48,8 +48,13 @@ The model simulates:
 ## Data Sources
 
 - Global Burden of Disease (GBD) 2023
-- Nepal-specific consumption and demographic data
+- Nepal Living Standards Survey (NLSS)
+- WHO STEPS Survey Nepal
+- World Bank Open Data
 
+## License
+
+[Add your license here]
 
 ---
 *Health Research and Social Development Forum (HERD International)*
