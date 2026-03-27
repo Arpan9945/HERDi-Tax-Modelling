@@ -52,9 +52,5 @@ The model simulates:
 - WHO STEPS Survey Nepal
 - World Bank Open Data
 
-## License
-
-[Add your license here]
-
 ---
 *Health Research and Social Development Forum (HERD International)*
