@@ -1,0 +1,199 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,1,Deaths,164,Nepal,3,Both,9,20-24 years,976,Diabetes mellitus type 2,1,Number,2023,11.947441362094523,19.66413225620912,6.5630415039635945
+1,All Population,1,Deaths,164,Nepal,3,Both,9,20-24 years,976,Diabetes mellitus type 2,2,Percent,2023,0.0030344460122522362,0.0049437228268324794,0.001716868292884479
+1,All Population,1,Deaths,164,Nepal,3,Both,9,20-24 years,976,Diabetes mellitus type 2,3,Rate,2023,0.4138216048569381,0.6811033862196718,0.22732301298667154
+1,All Population,1,Deaths,164,Nepal,3,Both,10,25-29 years,976,Diabetes mellitus type 2,1,Number,2023,13.533485941970161,22.00650389400979,7.668151937628832
+1,All Population,1,Deaths,164,Nepal,3,Both,10,25-29 years,976,Diabetes mellitus type 2,2,Percent,2023,0.003354971849551713,0.005298007703252384,0.0019031879074629255
+1,All Population,1,Deaths,164,Nepal,3,Both,10,25-29 years,976,Diabetes mellitus type 2,3,Rate,2023,0.5076669512546309,0.8255060660312571,0.2876470506287464
+1,All Population,1,Deaths,164,Nepal,3,Both,11,30-34 years,976,Diabetes mellitus type 2,1,Number,2023,30.348995612421298,47.62444991359857,19.6852235172091
+1,All Population,1,Deaths,164,Nepal,3,Both,11,30-34 years,976,Diabetes mellitus type 2,2,Percent,2023,0.007731513719280352,0.01140011824132218,0.004983755597352272
+1,All Population,1,Deaths,164,Nepal,3,Both,11,30-34 years,976,Diabetes mellitus type 2,3,Rate,2023,1.2741461455123768,1.99942396988991,0.8264475038421373
+1,All Population,1,Deaths,164,Nepal,3,Both,12,35-39 years,976,Diabetes mellitus type 2,1,Number,2023,43.21835659120949,67.13082710688938,27.900705972028565
+1,All Population,1,Deaths,164,Nepal,3,Both,12,35-39 years,976,Diabetes mellitus type 2,2,Percent,2023,0.008679367579488634,0.012918352869309074,0.00563070400972461
+1,All Population,1,Deaths,164,Nepal,3,Both,12,35-39 years,976,Diabetes mellitus type 2,3,Rate,2023,1.9943179242438804,3.0977626714250737,1.2874825053017522
+1,All Population,1,Deaths,164,Nepal,3,Both,13,40-44 years,976,Diabetes mellitus type 2,1,Number,2023,79.78755794403008,119.21015490698798,49.30520745589994
+1,All Population,1,Deaths,164,Nepal,3,Both,13,40-44 years,976,Diabetes mellitus type 2,2,Percent,2023,0.01434911130206072,0.021162213233432956,0.009522822542471469
+1,All Population,1,Deaths,164,Nepal,3,Both,13,40-44 years,976,Diabetes mellitus type 2,3,Rate,2023,4.196731543984881,6.27031369743675,2.5933958219155655
+1,All Population,1,Deaths,164,Nepal,3,Both,14,45-49 years,976,Diabetes mellitus type 2,1,Number,2023,200.74181162557107,307.65967632770344,134.31144998917108
+1,All Population,1,Deaths,164,Nepal,3,Both,14,45-49 years,976,Diabetes mellitus type 2,2,Percent,2023,0.030141723585361633,0.04338856376318654,0.021059066230070252
+1,All Population,1,Deaths,164,Nepal,3,Both,14,45-49 years,976,Diabetes mellitus type 2,3,Rate,2023,12.385373420324441,18.981994567241276,8.286751271548331
+1,All Population,1,Deaths,164,Nepal,3,Both,15,50-54 years,976,Diabetes mellitus type 2,1,Number,2023,345.7599676505875,493.0400719659259,233.6797650626547
+1,All Population,1,Deaths,164,Nepal,3,Both,15,50-54 years,976,Diabetes mellitus type 2,2,Percent,2023,0.03911313165469679,0.05470773284166284,0.02842471369873177
+1,All Population,1,Deaths,164,Nepal,3,Both,15,50-54 years,976,Diabetes mellitus type 2,3,Rate,2023,24.280564010208714,34.62312629281691,16.409871079199483
+1,All Population,1,Deaths,164,Nepal,3,Both,16,55-59 years,976,Diabetes mellitus type 2,1,Number,2023,548.7165428102413,816.6793624783425,359.7033030447067
+1,All Population,1,Deaths,164,Nepal,3,Both,16,55-59 years,976,Diabetes mellitus type 2,2,Percent,2023,0.05398601539626641,0.07708732904571342,0.03700714954464743
+1,All Population,1,Deaths,164,Nepal,3,Both,16,55-59 years,976,Diabetes mellitus type 2,3,Rate,2023,44.71244267421402,66.54752741918789,29.310604041099253
+1,All Population,1,Deaths,164,Nepal,3,Both,17,60-64 years,976,Diabetes mellitus type 2,1,Number,2023,841.7122153177163,1182.9610896382248,572.265938626299
+1,All Population,1,Deaths,164,Nepal,3,Both,17,60-64 years,976,Diabetes mellitus type 2,2,Percent,2023,0.05857555591486611,0.08187185090294881,0.04103095268894629
+1,All Population,1,Deaths,164,Nepal,3,Both,17,60-64 years,976,Diabetes mellitus type 2,3,Rate,2023,83.77564531935865,117.74015734668411,56.957648267716216
+1,All Population,1,Deaths,164,Nepal,3,Both,18,65-69 years,976,Diabetes mellitus type 2,1,Number,2023,1014.157817778856,1479.420652248963,673.9120306943536
+1,All Population,1,Deaths,164,Nepal,3,Both,18,65-69 years,976,Diabetes mellitus type 2,2,Percent,2023,0.06315890651493862,0.08731397181945802,0.0451715029148544
+1,All Population,1,Deaths,164,Nepal,3,Both,18,65-69 years,976,Diabetes mellitus type 2,3,Rate,2023,124.62490461219885,181.7987836169771,82.81376041279086
+1,All Population,1,Deaths,164,Nepal,3,Both,22,All ages,976,Diabetes mellitus type 2,1,Number,2023,7731.3858660567175,10814.56033329295,5350.709164050729
+1,All Population,1,Deaths,164,Nepal,3,Both,22,All ages,976,Diabetes mellitus type 2,2,Percent,2023,0.04293848364075347,0.05950046935120047,0.02906717740944915
+1,All Population,1,Deaths,164,Nepal,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2023,24.8889161008874,34.81428678718835,17.225029738715023
+1,All Population,1,Deaths,164,Nepal,3,Both,9,20-24 years,493,Ischemic heart disease,1,Number,2023,132.85452946535477,203.81667840625846,86.05562844037543
+1,All Population,1,Deaths,164,Nepal,3,Both,9,20-24 years,493,Ischemic heart disease,2,Percent,2023,0.03369928722352062,0.04821783758784522,0.022442881891166375
+1,All Population,1,Deaths,164,Nepal,3,Both,9,20-24 years,493,Ischemic heart disease,3,Rate,2023,4.601660969041851,7.0595655085016435,2.980694961278757
+1,All Population,1,Deaths,164,Nepal,3,Both,10,25-29 years,493,Ischemic heart disease,1,Number,2023,207.22336784990657,295.7109169303999,130.97501719496407
+1,All Population,1,Deaths,164,Nepal,3,Both,10,25-29 years,493,Ischemic heart disease,2,Percent,2023,0.05134580962346613,0.0742664965233751,0.03440418957147062
+1,All Population,1,Deaths,164,Nepal,3,Both,10,25-29 years,493,Ischemic heart disease,3,Rate,2023,7.773345007795103,11.092682276722647,4.913123489025518
+1,All Population,1,Deaths,164,Nepal,3,Both,11,30-34 years,493,Ischemic heart disease,1,Number,2023,312.03664593168475,451.94272675705116,204.33316402229488
+1,All Population,1,Deaths,164,Nepal,3,Both,11,30-34 years,493,Ischemic heart disease,2,Percent,2023,0.07957953631242315,0.10978824940831174,0.05534211387944898
+1,All Population,1,Deaths,164,Nepal,3,Both,11,30-34 years,493,Ischemic heart disease,3,Rate,2023,13.100278333749644,18.97397497577048,8.578547925085156
+1,All Population,1,Deaths,164,Nepal,3,Both,12,35-39 years,493,Ischemic heart disease,1,Number,2023,456.6075545581326,664.8322391194524,301.970703038446
+1,All Population,1,Deaths,164,Nepal,3,Both,12,35-39 years,493,Ischemic heart disease,2,Percent,2023,0.09174582732935219,0.12566810698849204,0.06593870341572612
+1,All Population,1,Deaths,164,Nepal,3,Both,12,35-39 years,493,Ischemic heart disease,3,Rate,2023,21.07022807493026,30.67878919210919,13.934486018577362
+1,All Population,1,Deaths,164,Nepal,3,Both,13,40-44 years,493,Ischemic heart disease,1,Number,2023,673.5813044641725,947.3548196229949,466.21860687778263
+1,All Population,1,Deaths,164,Nepal,3,Both,13,40-44 years,493,Ischemic heart disease,2,Percent,2023,0.12142125169838984,0.16108749572757475,0.08863672889581287
+1,All Population,1,Deaths,164,Nepal,3,Both,13,40-44 years,493,Ischemic heart disease,3,Rate,2023,35.429583016768895,49.82974736044553,24.522549433699936
+1,All Population,1,Deaths,164,Nepal,3,Both,14,45-49 years,493,Ischemic heart disease,1,Number,2023,904.8027344889449,1288.1464062049781,661.3951966442328
+1,All Population,1,Deaths,164,Nepal,3,Both,14,45-49 years,493,Ischemic heart disease,2,Percent,2023,0.1356203982448094,0.17553239400985216,0.10410596028914255
+1,All Population,1,Deaths,164,Nepal,3,Both,14,45-49 years,493,Ischemic heart disease,3,Rate,2023,55.82454221982702,79.47608986739517,40.80677773361428
+1,All Population,1,Deaths,164,Nepal,3,Both,15,50-54 years,493,Ischemic heart disease,1,Number,2023,1395.3583773213688,1839.3964835462755,999.0863760427727
+1,All Population,1,Deaths,164,Nepal,3,Both,15,50-54 years,493,Ischemic heart disease,2,Percent,2023,0.15807037870748572,0.1967554580698116,0.1215212083479711
+1,All Population,1,Deaths,164,Nepal,3,Both,15,50-54 years,493,Ischemic heart disease,3,Rate,2023,97.98730786546844,129.16933201483744,70.15959907119338
+1,All Population,1,Deaths,164,Nepal,3,Both,16,55-59 years,493,Ischemic heart disease,1,Number,2023,1619.757902302411,2151.743568641317,1149.2000313902836
+1,All Population,1,Deaths,164,Nepal,3,Both,16,55-59 years,493,Ischemic heart disease,2,Percent,2023,0.15957875507950572,0.20198162612948284,0.12212991976260212
+1,All Population,1,Deaths,164,Nepal,3,Both,16,55-59 years,493,Ischemic heart disease,3,Rate,2023,131.9867849835306,175.3359037978832,93.64314088578988
+1,All Population,1,Deaths,164,Nepal,3,Both,17,60-64 years,493,Ischemic heart disease,1,Number,2023,2296.814539241235,3026.45917185381,1644.573164497883
+1,All Population,1,Deaths,164,Nepal,3,Both,17,60-64 years,493,Ischemic heart disease,2,Percent,2023,0.1596260462847524,0.1963600881688531,0.12019146435789815
+1,All Population,1,Deaths,164,Nepal,3,Both,17,60-64 years,493,Ischemic heart disease,3,Rate,2023,228.60202893834614,301.22358395267094,163.68442280323177
+1,All Population,1,Deaths,164,Nepal,3,Both,18,65-69 years,493,Ischemic heart disease,1,Number,2023,2340.4050585501013,3136.444282714799,1574.2462300506622
+1,All Population,1,Deaths,164,Nepal,3,Both,18,65-69 years,493,Ischemic heart disease,2,Percent,2023,0.14559944054667154,0.1831354147661617,0.10770264144382445
+1,All Population,1,Deaths,164,Nepal,3,Both,18,65-69 years,493,Ischemic heart disease,3,Rate,2023,287.6009552581439,385.4223304326407,193.45143607516707
+1,All Population,1,Deaths,164,Nepal,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2023,20405.01708076707,25652.362110289676,15426.749654323185
+1,All Population,1,Deaths,164,Nepal,3,Both,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.11339469318210109,0.14397228717903354,0.08634897846520363
+1,All Population,1,Deaths,164,Nepal,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2023,65.6879331802659,82.58021257943238,49.661869748544106
+1,All Population,1,Deaths,164,Nepal,3,Both,9,20-24 years,494,Stroke,1,Number,2023,72.84031308985337,106.71797532946006,44.769715346891196
+1,All Population,1,Deaths,164,Nepal,3,Both,9,20-24 years,494,Stroke,2,Percent,2023,0.01853245408131049,0.026539409669427843,0.011360831635657544
+1,All Population,1,Deaths,164,Nepal,3,Both,9,20-24 years,494,Stroke,3,Rate,2023,2.522958209006902,3.696373347186547,1.5506814298012077
+1,All Population,1,Deaths,164,Nepal,3,Both,10,25-29 years,494,Stroke,1,Number,2023,91.51583669506158,143.77995777595618,54.58921538585598
+1,All Population,1,Deaths,164,Nepal,3,Both,10,25-29 years,494,Stroke,2,Percent,2023,0.022660848324476925,0.03320352508477003,0.01390913191806704
+1,All Population,1,Deaths,164,Nepal,3,Both,10,25-29 years,494,Stroke,3,Rate,2023,3.4329341313621047,5.393461309866571,2.0477459144783725
+1,All Population,1,Deaths,164,Nepal,3,Both,11,30-34 years,494,Stroke,1,Number,2023,146.823916811953,218.83091918734712,87.91353975737648
+1,All Population,1,Deaths,164,Nepal,3,Both,11,30-34 years,494,Stroke,2,Percent,2023,0.03746192967555057,0.05382037802065365,0.024005666823607146
+1,All Population,1,Deaths,164,Nepal,3,Both,11,30-34 years,494,Stroke,3,Rate,2023,6.1641291219012615,9.187209216484632,3.6908864876689593
+1,All Population,1,Deaths,164,Nepal,3,Both,12,35-39 years,494,Stroke,1,Number,2023,271.3762641160283,409.0111164777978,157.16813518796164
+1,All Population,1,Deaths,164,Nepal,3,Both,12,35-39 years,494,Stroke,2,Percent,2023,0.054388725454113954,0.074202508608534,0.035533144884187705
+1,All Population,1,Deaths,164,Nepal,3,Both,12,35-39 years,494,Stroke,3,Rate,2023,12.522700778747756,18.873882885509474,7.252548542974703
+1,All Population,1,Deaths,164,Nepal,3,Both,13,40-44 years,494,Stroke,1,Number,2023,382.8654236668124,562.3015465889955,244.22813189925535
+1,All Population,1,Deaths,164,Nepal,3,Both,13,40-44 years,494,Stroke,2,Percent,2023,0.06901678139756355,0.09427057007437224,0.0455850830203775
+1,All Population,1,Deaths,164,Nepal,3,Both,13,40-44 years,494,Stroke,3,Rate,2023,20.13827020161192,29.576398859793517,12.846111993916397
+1,All Population,1,Deaths,164,Nepal,3,Both,14,45-49 years,494,Stroke,1,Number,2023,567.5755265015314,799.5590831054911,379.73264370808545
+1,All Population,1,Deaths,164,Nepal,3,Both,14,45-49 years,494,Stroke,2,Percent,2023,0.08515617268282526,0.1111206035035703,0.058935790834597095
+1,All Population,1,Deaths,164,Nepal,3,Both,14,45-49 years,494,Stroke,3,Rate,2023,35.01828932913382,49.331216729003,23.42875434931344
+1,All Population,1,Deaths,164,Nepal,3,Both,15,50-54 years,494,Stroke,1,Number,2023,837.2754139446846,1159.730676977062,561.5056637505443
+1,All Population,1,Deaths,164,Nepal,3,Both,15,50-54 years,494,Stroke,2,Percent,2023,0.09502355222664755,0.12308019104810733,0.06723009515492613
+1,All Population,1,Deaths,164,Nepal,3,Both,15,50-54 years,494,Stroke,3,Rate,2023,58.7966253600596,81.4406454520514,39.43103738535609
+1,All Population,1,Deaths,164,Nepal,3,Both,16,55-59 years,494,Stroke,1,Number,2023,1070.0219456810128,1486.0666032422296,702.7065326084621
+1,All Population,1,Deaths,164,Nepal,3,Both,16,55-59 years,494,Stroke,2,Percent,2023,0.10514015720409119,0.13526909113295196,0.0741967898720989
+1,All Population,1,Deaths,164,Nepal,3,Both,16,55-59 years,494,Stroke,3,Rate,2023,87.19127486367499,121.09288243294411,57.260394219456224
+1,All Population,1,Deaths,164,Nepal,3,Both,17,60-64 years,494,Stroke,1,Number,2023,1831.5031847581292,2476.8862557787534,1252.9808055295475
+1,All Population,1,Deaths,164,Nepal,3,Both,17,60-64 years,494,Stroke,2,Percent,2023,0.1270832847137736,0.16064533629346403,0.09307357640434136
+1,All Population,1,Deaths,164,Nepal,3,Both,17,60-64 years,494,Stroke,3,Rate,2023,182.2895740554943,246.5245729886316,124.70922204257846
+1,All Population,1,Deaths,164,Nepal,3,Both,18,65-69 years,494,Stroke,1,Number,2023,2141.6770477481023,2865.5362218402483,1461.5021114665158
+1,All Population,1,Deaths,164,Nepal,3,Both,18,65-69 years,494,Stroke,2,Percent,2023,0.13346788104038643,0.1666737454780854,0.09667289680567816
+1,All Population,1,Deaths,164,Nepal,3,Both,18,65-69 years,494,Stroke,3,Rate,2023,263.1802399061558,352.1317610032103,179.59686159196815
+1,All Population,1,Deaths,164,Nepal,3,Both,22,All ages,494,Stroke,1,Number,2023,17231.28066217758,22551.879198934832,12254.097748807182
+1,All Population,1,Deaths,164,Nepal,3,Both,22,All ages,494,Stroke,2,Percent,2023,0.09572375996796872,0.11931968893036439,0.06768210539291025
+1,All Population,1,Deaths,164,Nepal,3,Both,22,All ages,494,Stroke,3,Rate,2023,55.47102500660977,72.59912246313941,39.44845284480563
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,9,20-24 years,493,Ischemic heart disease,1,Number,2023,9351.744531760552,14111.834170301885,6119.029197438556
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,9,20-24 years,493,Ischemic heart disease,2,Percent,2023,0.01846611484752015,0.026102915621586585,0.012337146124306468
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,9,20-24 years,493,Ischemic heart disease,3,Rate,2023,323.91487123120726,488.789330438323,211.94383013959117
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,10,25-29 years,493,Ischemic heart disease,1,Number,2023,13605.696318623772,19119.153715434604,8959.038250362692
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,10,25-29 years,493,Ischemic heart disease,2,Percent,2023,0.026575636500929645,0.03759913441162312,0.017812098480679876
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,10,25-29 years,493,Ischemic heart disease,3,Rate,2023,510.37570064276895,717.1960364759015,336.0706660676617
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,11,30-34 years,493,Ischemic heart disease,1,Number,2023,18841.146156046972,26953.99333799135,12589.960552965962
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,11,30-34 years,493,Ischemic heart disease,2,Percent,2023,0.03883252389586638,0.05338664180695022,0.027233820985600125
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,11,30-34 years,493,Ischemic heart disease,3,Rate,2023,791.0104854322495,1131.6132881745793,528.5660822379562
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,12,35-39 years,493,Ischemic heart disease,1,Number,2023,25068.594102850184,36122.46878018202,16813.367605716223
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,12,35-39 years,493,Ischemic heart disease,2,Percent,2023,0.04768979530946182,0.06549302277777716,0.03381556135872624
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,12,35-39 years,493,Ischemic heart disease,3,Rate,2023,1156.7942536037424,1666.8770549898634,775.8555166764824
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,13,40-44 years,493,Ischemic heart disease,1,Number,2023,33308.13998896405,46554.925486963955,23688.289492013308
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,13,40-44 years,493,Ischemic heart disease,2,Percent,2023,0.06374406770979249,0.08515786270630664,0.04550895647206486
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,13,40-44 years,493,Ischemic heart disease,3,Rate,2023,1751.968920532787,2448.73423066868,1245.9761182804336
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,14,45-49 years,493,Ischemic heart disease,1,Number,2023,40040.21129665628,56559.10349360049,29446.70670551079
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,14,45-49 years,493,Ischemic heart disease,2,Percent,2023,0.07532204921269693,0.10074195204908903,0.054245197939140066
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,14,45-49 years,493,Ischemic heart disease,3,Rate,2023,2470.401979149075,3489.5850117842965,1816.8036623420887
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,15,50-54 years,493,Ischemic heart disease,1,Number,2023,54549.31288990671,71440.29752008677,39407.14201046802
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,15,50-54 years,493,Ischemic heart disease,2,Percent,2023,0.0943226999396852,0.11733137705443879,0.0708130769161499
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,15,50-54 years,493,Ischemic heart disease,3,Rate,2023,3830.6577026139807,5016.8061057830655,2767.3175716267124
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,16,55-59 years,493,Ischemic heart disease,1,Number,2023,55635.588146701506,73605.75048965841,39882.72663934129
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,16,55-59 years,493,Ischemic heart disease,2,Percent,2023,0.09742022944047429,0.1228725885281908,0.0736797922928999
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,16,55-59 years,493,Ischemic heart disease,3,Rate,2023,4533.493801581705,5997.801492198651,3249.863981537704
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,17,60-64 years,493,Ischemic heart disease,1,Number,2023,67646.49827551226,88664.18078092372,48735.398006491654
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,17,60-64 years,493,Ischemic heart disease,2,Percent,2023,0.10836511805302836,0.13378209507924985,0.08222425275863512
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,17,60-64 years,493,Ischemic heart disease,3,Rate,2023,6732.8582661554765,8824.748918287229,4850.635815411682
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,18,65-69 years,493,Ischemic heart disease,1,Number,2023,58328.09443587017,77977.33874696196,39523.61222004646
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,18,65-69 years,493,Ischemic heart disease,2,Percent,2023,0.1000079431542201,0.12496572537070237,0.07343033694553708
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,18,65-69 years,493,Ischemic heart disease,3,Rate,2023,7167.654853957586,9582.25458887337,4856.863810053367
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2023,535016.3558872617,673570.8984786534,407000.66782907804
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.05547558803677316,0.06924216093091105,0.04243461668668029
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2023,1722.3273323793112,2168.3628098082527,1310.218588245115
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,9,20-24 years,494,Stroke,1,Number,2023,5998.2796711989295,8341.188746907646,4020.6044187693715
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,9,20-24 years,494,Stroke,2,Percent,2023,0.011869587455356425,0.01657852173263024,0.007942941359460038
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,9,20-24 years,494,Stroke,3,Rate,2023,207.76144822033504,288.9124130469742,139.26102858715802
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,10,25-29 years,494,Stroke,1,Number,2023,7013.052091037778,10242.892447182021,4681.529930501348
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,10,25-29 years,494,Stroke,2,Percent,2023,0.013707932020485215,0.01990008936533156,0.009325112279599434
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,10,25-29 years,494,Stroke,3,Rate,2023,263.07300198287015,384.2304933841003,175.61314484795156
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,11,30-34 years,494,Stroke,1,Number,2023,9963.608915345547,14022.393944275955,6397.8272404393665
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,11,30-34 years,494,Stroke,2,Percent,2023,0.020558861748925097,0.02861500640140907,0.013875611136424958
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,11,30-34 years,494,Stroke,3,Rate,2023,418.3035925473726,588.7041345000172,268.6008796522917
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,12,35-39 years,494,Stroke,1,Number,2023,16149.536559796088,23489.033733867327,10171.761710517041
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,12,35-39 years,494,Stroke,2,Percent,2023,0.03071681803318727,0.0418518006320826,0.020190750462372294
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,12,35-39 years,494,Stroke,3,Rate,2023,745.2229277034581,1083.9051896792596,469.3775585290952
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,13,40-44 years,494,Stroke,1,Number,2023,20578.24199443493,29264.86536257095,13694.134322590458
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,13,40-44 years,494,Stroke,2,Percent,2023,0.03942207122833246,0.05409858549735926,0.02716217855426227
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,13,40-44 years,494,Stroke,3,Rate,2023,1082.3912840944547,1539.2974388779553,720.2953312532293
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,14,45-49 years,494,Stroke,1,Number,2023,27087.553560177534,36968.16273167793,18955.713287635896
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,14,45-49 years,494,Stroke,2,Percent,2023,0.05105029899667093,0.06735588823724938,0.036185708252865004
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,14,45-49 years,494,Stroke,3,Rate,2023,1671.2485713320225,2280.8626483314483,1169.5300825215354
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,15,50-54 years,494,Stroke,1,Number,2023,35340.53671727307,47438.90497444882,24462.221914434253
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,15,50-54 years,494,Stroke,2,Percent,2023,0.06124656856804711,0.07906026406626368,0.04529412230191922
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,15,50-54 years,494,Stroke,3,Rate,2023,2481.7452689781408,3331.3381437215,1717.8291317564633
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,16,55-59 years,494,Stroke,1,Number,2023,40000.11199323951,54007.868325074334,26934.916399239588
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,16,55-59 years,494,Stroke,2,Percent,2023,0.07002007555207247,0.08991796020554135,0.0503301632653842
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,16,55-59 years,494,Stroke,3,Rate,2023,3259.429185969277,4400.858235609064,2194.805170749572
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,17,60-64 years,494,Stroke,1,Number,2023,57443.16930994577,75402.6151888322,40827.27690224811
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,17,60-64 years,494,Stroke,2,Percent,2023,0.0919817517134318,0.11818950588829558,0.06980583530975669
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,17,60-64 years,494,Stroke,3,Rate,2023,5717.3205883835235,7504.824845422123,4063.540253870414
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,18,65-69 years,494,Stroke,1,Number,2023,56724.50940827439,74006.16786974786,39923.92309070217
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,18,65-69 years,494,Stroke,2,Percent,2023,0.09745833281896352,0.12409546389887145,0.07274158160557052
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,18,65-69 years,494,Stroke,3,Rate,2023,6970.598116240592,9094.256781140186,4906.056059224169
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,22,All ages,494,Stroke,1,Number,2023,456991.2920724824,573560.3407867999,329140.0136533254
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,22,All ages,494,Stroke,2,Percent,2023,0.047399865552737126,0.059820876794601165,0.03464171081811811
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,22,All ages,494,Stroke,3,Rate,2023,1471.1486561760894,1846.4083216066358,1059.5691803752554
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,9,20-24 years,976,Diabetes mellitus type 2,1,Number,2023,3244.6582129758244,4564.04018410341,2214.5411977886147
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,9,20-24 years,976,Diabetes mellitus type 2,2,Percent,2023,0.006400709851494385,0.008434484579296105,0.004524802319634568
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,9,20-24 years,976,Diabetes mellitus type 2,3,Rate,2023,112.38470465868107,158.08392578594078,76.70470728554648
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,10,25-29 years,976,Diabetes mellitus type 2,1,Number,2023,4554.679477231386,6163.414676825174,3188.432872879249
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,10,25-29 years,976,Diabetes mellitus type 2,2,Percent,2023,0.008870154327617067,0.011170028560168327,0.00643588133256654
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,10,25-29 years,976,Diabetes mellitus type 2,3,Rate,2023,170.85474164326635,231.20147696746167,119.60421747916725
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,11,30-34 years,976,Diabetes mellitus type 2,1,Number,2023,7359.868567423575,9438.263889771612,5437.848608793148
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,11,30-34 years,976,Diabetes mellitus type 2,2,Percent,2023,0.015120012433102981,0.018502291322064525,0.011791224567694523
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,11,30-34 years,976,Diabetes mellitus type 2,3,Rate,2023,308.9903958081031,396.24795855053713,228.2979619245742
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,12,35-39 years,976,Diabetes mellitus type 2,1,Number,2023,10678.657334557203,14030.234751602766,7798.441827716419
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,12,35-39 years,976,Diabetes mellitus type 2,2,Percent,2023,0.020281984359350736,0.024195123284763316,0.015962425826041203
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,12,35-39 years,976,Diabetes mellitus type 2,3,Rate,2023,492.7683375516758,647.4274094022819,359.8603358590323
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,13,40-44 years,976,Diabetes mellitus type 2,1,Number,2023,15105.557770904637,19702.356985268365,10813.65996934416
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,13,40-44 years,976,Diabetes mellitus type 2,2,Percent,2023,0.028895175107790515,0.03484730398304723,0.02205909895158465
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,13,40-44 years,976,Diabetes mellitus type 2,3,Rate,2023,794.5345417278147,1036.3207645599248,568.7857739813028
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,14,45-49 years,976,Diabetes mellitus type 2,1,Number,2023,22437.417631234082,28773.216267888405,16878.731408648327
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,14,45-49 years,976,Diabetes mellitus type 2,2,Percent,2023,0.042224698829928055,0.051201523998697526,0.033436134449236085
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,14,45-49 years,976,Diabetes mellitus type 2,3,Rate,2023,1384.3443660304529,1775.25063212171,1041.384401508705
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,15,50-54 years,976,Diabetes mellitus type 2,1,Number,2023,29478.466503093972,37594.56929552766,21995.430769937433
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,15,50-54 years,976,Diabetes mellitus type 2,2,Percent,2023,0.05096801031933788,0.06118494426923288,0.04070034932042211
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,15,50-54 years,976,Diabetes mellitus type 2,3,Rate,2023,2070.088673696551,2640.031905425058,1544.6017894161876
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,16,55-59 years,976,Diabetes mellitus type 2,1,Number,2023,36007.678316599384,45606.7674053676,26571.912540541794
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,16,55-59 years,976,Diabetes mellitus type 2,2,Percent,2023,0.0629953391346133,0.07633851479801386,0.04991880776265263
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,16,55-59 years,976,Diabetes mellitus type 2,3,Rate,2023,2934.1037256083955,3716.290313984408,2165.22561927584
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,17,60-64 years,976,Diabetes mellitus type 2,1,Number,2023,41603.78838654713,53750.87747539617,31310.10008021308
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,17,60-64 years,976,Diabetes mellitus type 2,2,Percent,2023,0.0666933883132105,0.08180908469188426,0.051900973083092376
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,17,60-64 years,976,Diabetes mellitus type 2,3,Rate,2023,4140.826468221582,5349.8266569451725,3116.2953222004226
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,18,65-69 years,976,Diabetes mellitus type 2,1,Number,2023,40684.60622263694,53230.9021732435,30587.832311012527
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,18,65-69 years,976,Diabetes mellitus type 2,2,Percent,2023,0.06986396587912447,0.08613196248476414,0.05467481117953397
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,18,65-69 years,976,Diabetes mellitus type 2,3,Rate,2023,4999.532696780541,6541.285773737753,3758.7894282594793
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,22,All ages,976,Diabetes mellitus type 2,1,Number,2023,308745.79566908674,384473.37023847306,233448.393687559
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,22,All ages,976,Diabetes mellitus type 2,2,Percent,2023,0.031956173781866055,0.03854323410446069,0.025678953778656394
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2023,993.916011700618,1237.6985990186222,751.5182381318705
